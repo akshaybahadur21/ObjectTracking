@@ -18,7 +18,7 @@ The goal here is fair self-explanatory:
 OpenCV comes with a trainer as well as detector.
 
 
-For more information, [see](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+For more information, [see](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
 ### Working Example
 
