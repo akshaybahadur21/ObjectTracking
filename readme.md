@@ -12,7 +12,7 @@ You need to install opencv library
 The goal here is fair self-explanatory:
 
 1) Detect the presence of a colored ball using computer vision techniques.
-2) Step #2: Track the ball as it moves around in the video frames, drawing its previous positions as it moves.
+2) Track the ball as it moves around in the video frames, drawing its previous positions as it moves.
 
 
 OpenCV comes with a trainer as well as detector.
