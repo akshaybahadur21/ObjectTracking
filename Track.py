@@ -37,5 +37,5 @@ while True:
 	if k==32:
 		break
 # cleanup the camera and close any open windows
-cam.release()
+cap.release()
 cv2.destroyAllWindows()
