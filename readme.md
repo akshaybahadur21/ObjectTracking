@@ -36,3 +36,5 @@ To run the code, type `python Track.py`
 ```
 python Track.py
 ```
+## References 🔱
+- [Adrian Rosebrock's Ball Tracking with OpenCV](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
